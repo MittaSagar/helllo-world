@@ -1,0 +1,7 @@
+1.cd "file path"
+2.git init
+3.git add filename
+  git add .  -->to add all files
+4.git commit -m "comment"
+5.git remote add origin (repository link)
+6.git push -u
